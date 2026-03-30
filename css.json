@@ -1,0 +1,39 @@
+{
+    "room": "Brazil Lounge Exclusive",
+    "author": null,
+    "css": null,
+    "rules": {
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutorespond": true
+    },
+    "ccc": {
+        "owner": null,
+        "sub": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://i.imgur.com/OeOzIHn.jpeg",
+        "badges": {
+            "owner": null,
+            "host": null,
+            "cohost": null,
+            "manager": null,
+            "bouncer": null,
+            "rdj": null,
+            "sub": null
+        }
+    },
+    "autocomplete": null,
+    "emotes": null,
+    "event": {
+        "banner": null,
+        "date": null,
+        "description": null
+    }
